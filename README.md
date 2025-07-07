@@ -32,8 +32,8 @@
 ---
 
 ### 📌 Featured Projects:
-- 🔷 [Tour Project](https://github.com/mohit6180/Tour-Project) – Multi-page travel website (HTML/CSS/JS/PHP)
-- 🔷 [Text File Analyzer](https://github.com/mohit6180/Text-File-Analyzer) – Python CLI tool to process `.txt` files
+- 🔷 [Tour Project](https://github.com/whoismohit/Tour-Project) – Multi-page travel website (HTML/CSS/JS/PHP)
+- 🔷 [Text File Analyzer](https://github.com/whoismohit/Text-File-Analyzer) – Python CLI tool to process `.txt` files
 - 🔷 Student Dashboard (coming soon)
 
 ---
