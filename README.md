@@ -47,4 +47,4 @@
 
 ---
 
-*Thanks for visiting my profile! Let's connect and build something awesome together.*
+*Thanks for visiting my profile! Let's connect and build something awesome together.* 
