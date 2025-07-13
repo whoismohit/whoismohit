@@ -17,7 +17,7 @@
   Mini projects, open-source contributions, or data-driven web apps
 
 - 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/mohit-awana-2a1170251/) | me.mohit618@gmail.com 
+  [LinkedIn](https://www.linkedin.com/in/mohit-awana) | mohit.awana.in@gmail.com 
 
 ---
 
