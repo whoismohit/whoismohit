@@ -8,7 +8,7 @@
   `Student Dashboard App (Flask)`  
 
 - 🌱 I’m currently learning:  
-  `Intermediate Python`, `Flask`, `REST APIs`, `Data Science`
+  `Flask`, `REST APIs`, `Data Science`
 
 - 💻 Most confident in:  
   `C++`, `Python`, `HTML/CSS`, `DSA`, `OOPs`, `DBMS`
