@@ -34,7 +34,7 @@
 ### 📌 Featured Projects:
 - 🔷 [Tour Project](https://github.com/whoismohit/Tour-Project) – Multi-page travel website (HTML/CSS/JS/PHP)
 - 🔷 [Text File Analyzer](https://github.com/whoismohit/Text-File-Analyzer) – Python CLI tool to process `.txt` files
-- 🔷 [student-dashboard-raw-files](https://github.com/whoismohit/student-dashboard-raw-files) - Student Dashboard (coming soon)  
+- 🔷 [student-dashboard-raw-files](https://github.com/whoismohit) - Student Dashboard (coming soon)  
 
 ---
 
