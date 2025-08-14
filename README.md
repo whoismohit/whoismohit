@@ -10,7 +10,7 @@
   `Python`, `Flask`, `MySQL`, `HTML/CSS`, `C++`, `DSA`, `OOP`, `DBMS`
 
 - 📂 Featured Projects:  
-  - 🔹 [Student Dashboard](https://github.com/whoismohit/Python-basic-CRUD-app) – Flask CRUD web app  
+  - 🔹 [Render Deplyment Practice](https://github.com/whoismohit/Python-basic-CRUD-app) – Flask CRUD web app  
   - 🔹 [Text File Analyzer](https://github.com/whoismohit/Text-File-Analyzer) – CLI text analysis tool in Python  
   - 🔹 [Basic Data Visualization](https://github.com/whoismohit/Basic-Data-Visualization) – Console-based chart plotting in Python
 
