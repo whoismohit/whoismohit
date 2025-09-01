@@ -4,7 +4,7 @@
 ---
 
 - 🔭 Currently building:  
-  **Student Dashboard App (Flask CRUD)** – A full-stack web app with authentication & database integration  
+  [**Student Dashboard App (Flask CRUD)**](https://github.com/whoismohit/student-dashboard-raw-files) – A full-stack web app with authentication & database integration  
 
 - 💻 Confident in:  
   `Python`, `Flask`, `MySQL`, `HTML/CSS`, `C++`, `DSA`, `OOP`, `DBMS`
