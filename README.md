@@ -13,7 +13,6 @@
   - 🔹 [Render Deployment Practice](https://github.com/whoismohit/Python-basic-CRUD-app) – Flask CRUD web app  
   - 🔹 [Text File Analyzer](https://github.com/whoismohit/Text-File-Analyzer) – CLI text analysis tool in Python  
   - 🔹 [Basic Data Visualization](https://github.com/whoismohit/Basic-Data-Visualization) – Console-based chart plotting in Python  
-  - 🔹 [Django Blog App](https://github.com/whoismohit/Django-Blog-App) – A simple blog application built with Django
 
 ---
 
@@ -28,3 +27,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whoismohit&show_icons=true&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoismohit&theme=github-dark" width="48%"/>
+</p>
+
+---
+
+*Thanks for visiting my profile! Let’s connect and build something impactful together.*
